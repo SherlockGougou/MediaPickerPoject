@@ -5,8 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/MediaPickerPoject.iml" filepath="$PROJECT_DIR$/.idea/MediaPickerPoject.iml" />
       <module fileurl="file://$PROJECT_DIR$/MediaPickerPoject.iml" filepath="$PROJECT_DIR$/MediaPickerPoject.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mediapicker/mediapicker.iml" filepath="$PROJECT_DIR$/mediapicker/mediapicker.iml" />
       <module fileurl="file://$PROJECT_DIR$/mediapicker/mediapicker.iml" filepath="$PROJECT_DIR$/mediapicker/mediapicker.iml" />
     </modules>
   </component>
